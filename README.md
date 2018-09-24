@@ -1,16 +1,25 @@
 # vue-pizza
 
-## Project setup
+## 基于vue脚手架
+vue-cli : v3.0.3
+
+## 项目创建
+### 安装vue-vli
 ```
-npm install
+npm install -g @vue/cli
 ```
 
-### Compiles and hot-reloads for development
+### 创建项目
+```
+vue create [项目名称]
+```
+
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 启动vue可视化管理界面
 ```
-npm run build
+vue ui
 ```
