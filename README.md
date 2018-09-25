@@ -1,8 +1,7 @@
 # vue-pizza
 
 ## 演示地址
-[pizza-app](https://node-app-0923.herokuapp.com/)
- 已经注册测试账号：test1@qq.com/test1
+[pizza-app](https://pizza-order-0925.herokuapp.com/)
 
 ## 说明
 1. 本系统为一个简单的pizza点餐系统
@@ -29,11 +28,5 @@ npm run serve
 ```
 vue ui
 ```
-## Usage
+## 使用
 git https://github.com/RedHat0107/vue-pizza
-```
-cd node-app
-npm install
-npm run serve
-npm run build
-```
