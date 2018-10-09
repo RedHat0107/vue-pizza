@@ -25,13 +25,6 @@ export default new Router({
   base: process.env.BASE_URL,
   scrollBehavior(to, from, savedPosition) {
      return {x: 0,y:100,}
-    // return {selector:'btn'}
-
-    /* if (savedPosition) {  //当点击浏览器的前进后退的时候,会触发savedPostion 保留原来的位置,回退的时候依然回退到原来的位置
-      return savedPosition;
-    } else {
-      return {x:0,y:0}
-    } */
   },
   routes: [
     {
